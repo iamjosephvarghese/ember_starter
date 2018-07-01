@@ -1,7 +1,11 @@
-# ember-starter
+# Ember_Starter
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Sample Ember Project
+
+## Routes Used In This Sample
+
+* `http://localhost:4200/scientists`
+* `http://localhost:4200/languages`
 
 ## Prerequisites
 
@@ -23,6 +27,14 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+
+## Creating New Routes
+
+`ember generate route <route_name>`
+
+## Creating New UI Component
+
+`ember generate component <component_name>`
 
 ### Code Generators
 
